@@ -1,0 +1,7 @@
+*__pycache__*
+test_*.py
+*checkpoint.ipynb
+
+
+data/iris_new.csv
+data/iris_data.pkl
